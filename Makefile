@@ -1,2 +1,2 @@
-CompHello:Hello,World.c
-	gcc -Wall -Werror -o Hello,World  Hello,World.c
+CompCircle:circle.c
+	gcc -Wall -Werror -o circle circle.c -lm
